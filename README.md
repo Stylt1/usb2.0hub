@@ -4,6 +4,20 @@
 
 
 
+
+3D Renders:
+<img width="1560" height="1306" alt="Snímek obrazovky 2026-07-14 v 21 22 59" src="https://github.com/user-attachments/assets/0598ed6d-f893-43b4-b634-4fb6ff7ee5d5" />
+<img width="1299" height="767" alt="Snímek obrazovky 2026-07-14 v 21 22 10" src="https://github.com/user-attachments/assets/7a30efaa-0453-4d52-b2c3-f2638624de9d" />
+<img width="856" height="1293" alt="Snímek obrazovky 2026-07-14 v 21 21 46" src="https://github.com/user-attachments/assets/2e50bb1c-4e28-402e-ac71-d6bf79e00d23" />
+
+
+
+
+
+
+
+
+
 ## 🚀 USB 2.0 High-Speed Hub
 
 This project is a custom-designed **4-port USB 2.0 hub** built around the WCH CH334F controller. It is optimized for stable data transmission and reliable power distribution.
